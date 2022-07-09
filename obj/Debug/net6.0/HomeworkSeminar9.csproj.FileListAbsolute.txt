@@ -1,0 +1,5 @@
+D:\GeekBrains\С#\HomeworkSeminar9\obj\Debug\net6.0\HomeworkSeminar9.csproj.AssemblyReference.cache
+D:\GeekBrains\С#\HomeworkSeminar9\obj\Debug\net6.0\HomeworkSeminar9.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\С#\HomeworkSeminar9\obj\Debug\net6.0\HomeworkSeminar9.AssemblyInfoInputs.cache
+D:\GeekBrains\С#\HomeworkSeminar9\obj\Debug\net6.0\HomeworkSeminar9.AssemblyInfo.cs
+D:\GeekBrains\С#\HomeworkSeminar9\obj\Debug\net6.0\HomeworkSeminar9.csproj.CoreCompileInputs.cache
