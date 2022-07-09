@@ -3,3 +3,13 @@ D:\GeekBrains\С#\HomeworkSeminar9\obj\Debug\net6.0\HomeworkSeminar9.GeneratedMS
 D:\GeekBrains\С#\HomeworkSeminar9\obj\Debug\net6.0\HomeworkSeminar9.AssemblyInfoInputs.cache
 D:\GeekBrains\С#\HomeworkSeminar9\obj\Debug\net6.0\HomeworkSeminar9.AssemblyInfo.cs
 D:\GeekBrains\С#\HomeworkSeminar9\obj\Debug\net6.0\HomeworkSeminar9.csproj.CoreCompileInputs.cache
+D:\GeekBrains\С#\HomeworkSeminar9\bin\Debug\net6.0\HomeworkSeminar9.exe
+D:\GeekBrains\С#\HomeworkSeminar9\bin\Debug\net6.0\HomeworkSeminar9.deps.json
+D:\GeekBrains\С#\HomeworkSeminar9\bin\Debug\net6.0\HomeworkSeminar9.runtimeconfig.json
+D:\GeekBrains\С#\HomeworkSeminar9\bin\Debug\net6.0\HomeworkSeminar9.dll
+D:\GeekBrains\С#\HomeworkSeminar9\bin\Debug\net6.0\HomeworkSeminar9.pdb
+D:\GeekBrains\С#\HomeworkSeminar9\obj\Debug\net6.0\HomeworkSeminar9.dll
+D:\GeekBrains\С#\HomeworkSeminar9\obj\Debug\net6.0\refint\HomeworkSeminar9.dll
+D:\GeekBrains\С#\HomeworkSeminar9\obj\Debug\net6.0\HomeworkSeminar9.pdb
+D:\GeekBrains\С#\HomeworkSeminar9\obj\Debug\net6.0\HomeworkSeminar9.genruntimeconfig.cache
+D:\GeekBrains\С#\HomeworkSeminar9\obj\Debug\net6.0\ref\HomeworkSeminar9.dll

@@ -4,11 +4,15 @@
 
 Console.WriteLine();
 
-int M = 11;
-int N = 34;
-
-for (int number = M; number < N; number++)
-{
-    if (number%3 == 0) return number;
-    Console.WriteLine(number);
-}
+        int start = 11;
+        int finish = 34;
+        Console.WriteLine("Начало отрезка: " + start);
+        Console.WriteLine("Конец отрезка: " + finish);
+        Console.WriteLine("Числа на отрезке, кратные трем: ");
+        for (int number = start; number < finish; number++)
+        {
+            if (number % 3 == 0)
+            {
+                Console.Write(number + "\t");
+            }
+        }
